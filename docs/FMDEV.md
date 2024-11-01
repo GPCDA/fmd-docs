@@ -14,7 +14,7 @@ visual para o usuário. O projeto foi desenvolvido com as tecnologias Hypertext 
 (HTML), Cascading Style Sheets (CSS), e JavaScript, sendo integrado ao Moodle como um
 bloco HTML. A arquitetura incial do FMDEV está representada na Figura 1.
 
-![Figura 1 - Arquitetura do FMDEV](/docs/img/fmdev_arch_1.png)	
+![Figura 1 - Arquitetura do FMDEV](https://raw.githubusercontent.com/GPCDA/fmd-docs/5ab9666d9efbb5be727f3d3c4fa8f712026477ed/docs/img/fmdev_arch_1.png)	
 
 Os autores Fujisawa e Maciel (2018) trouxeram melhorias para o projeto com o
 objetivo de modernizar as tecnologias utilizadas e trazer mais funcionalidades de mineração
@@ -27,7 +27,7 @@ Para os testes, o FMDEV foi conectado
 diretamente com a base de dados do AVA Moodle. A arquitetura do projeto em 2018 pode ser
 visualizada na Figura 2.
 
-![Figura 2 - Arquitetura do FMDEV evoluída](/docs/img/fmdev_arch_2.png)	
+![Figura 2 - Arquitetura do FMDEV evoluída](https://raw.githubusercontent.com/GPCDA/fmd-docs/5ab9666d9efbb5be727f3d3c4fa8f712026477ed/docs/img/fmdev_arch_2.png)
 
 O trabalho de Silva (2020) aprimorou o projeto levando ao estado atual, com uma
 arquitetura mais robusta, tecnologias atualizadas, novas fucnionalidades e uma interface de
@@ -41,7 +41,7 @@ dados, e tornou-se um framework de AutoML, sendo capaz de realizar atividades de
 de máquina supervisionado de maneira automatizada e apresentar os resultados de forma visual
 com dados relativos ao contexto de educação.
 
-![Figura 3 - Arquitetura do FMDEV final](/docs/img/fmdev_arch_3.png)	
+![Figura 3 - Arquitetura do FMDEV final](https://raw.githubusercontent.com/GPCDA/fmd-docs/5ab9666d9efbb5be727f3d3c4fa8f712026477ed/docs/img/fmdev_arch_3.png)	
 
 
 ## Referências
