@@ -12,7 +12,8 @@ A camada de frontend, construída com HTML, CSS e Javascript (React.js), permite
 O sistema de armazenamento inclui um Data Lake com duas zonas: uma com PostgreSQL para dados relacionais e outra com sistema de arquivos para dados ingeridos e processados pelo PDI-CE, armazenados em formato CSV. O PDI-CE, através de seu servidor Carte, executa processos de ETL acionados pelo Flask, manipulando dados de diferentes fontes (bancos de dados ou arquivos CSV) e realizando transformações como seleção de colunas e carregamento no Data Lake.
 
 A figura 1 mostra a arquitetura do FMD.
-![Figura 1 - Arquitetura do FMD](https://raw.githubusercontent.com/GPCDA/fmd-docs/fb0dce0c16d1f9b21e1cd5104812507c2a54ea74/docs/img/fmd_arch.png)	
+
+![Figura 1 - Arquitetura do FMD](https://raw.githubusercontent.com/GPCDA/fmd-docs/fb0dce0c16d1f9b21e1cd5104812507c2a54ea74/docs/img/fmd_arch.png)
 
 ## Referências
 

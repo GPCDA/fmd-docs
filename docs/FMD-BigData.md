@@ -16,7 +16,8 @@ O backend original foi feito em Flask utilizando Gunicorn como servidor WSGI (Si
 Na camada do Cluster foi desenvolvido um servidor Django Rest que é responsável por receber as requisições realizadas por meio do frontend do FMDEV e processá-las. O serviço do Django Rest é responsável pela leitura dos dados no HDFS e pela execução do treinamento de AutoML que utiliza a biblioteca H2O devido a variedade algoritmos.
 
 A figura 1 mostra a arquitetura do FMD.
-![Figura 1 - Arquitetura do FMD](https://raw.githubusercontent.com/GPCDA/fmd-docs/7225290aec040aa7b0e47edae8a2acd8a559904f/docs/img/fmd_arch_bigdata.png)	
+
+![Figura 1 - Arquitetura do FMD](https://raw.githubusercontent.com/GPCDA/fmd-docs/7225290aec040aa7b0e47edae8a2acd8a559904f/docs/img/fmd_arch_bigdata.png)
 
 ## Referências
 
