@@ -21,11 +21,9 @@ A figura 1 mostra a arquitetura do FMD.
 
 ## Referências
 
-- CUNHA, Roberto Sá Barreto Paiva. *Desenvolvimento de uma integração entre um framework de AutoML e ferramentas para processamento distribuído* Orientador: Prof. Dr. Alexandre Magno Andrade Maciel. 2024. Coorientador: Dr. Jairson Barbosa Rodrigues. Dissertação (Mestrado em Engenharia da Computação) - Escola Politécnica de Pernambuco, Universidade de Pernambuco, Recife, 2024.
+- ALVES, Gabriel Mac’Hamilton Renaux. *Desenvolvimento de um Mecanismo de Ingestão de Dados Independente de Contextos para AutoML.* Orientador: Prof. Dr. Alexandre Magno Andrade Maciel. 2024. Dissertação (Mestrado em Engenharia da Computação) - Escola Politécnica de Pernambuco, Universidade de Pernambuco, Recife, 2024.
 
-- SILVA, R. G. da. Desenvolvimento de uma Solução de Aprendizado de Máquina
-Automatizado Integrável a Múltiplos Ambientes Virtuais de Aprendizagem. Dissertação
-(Dissertação de Mestrado) — Universidade de Pernambuco, 2020.
+- CUNHA, Roberto Sá Barreto Paiva. *Desenvolvimento de uma integração entre um framework de AutoML e ferramentas para processamento distribuído* Orientador: Prof. Dr. Alexandre Magno Andrade Maciel. 2024. Coorientador: Dr. Jairson Barbosa Rodrigues. Dissertação (Mestrado em Engenharia da Computação) - Escola Politécnica de Pernambuco, Universidade de Pernambuco, Recife, 2024.
 
 - SILVA, R. G. da. Desenvolvimento de uma Solução de Aprendizado de Máquina
 Automatizado Integrável a Múltiplos Ambientes Virtuais de Aprendizagem. Dissertação
